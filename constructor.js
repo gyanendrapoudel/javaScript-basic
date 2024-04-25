@@ -24,3 +24,5 @@ console.log(gyan.bio())
 console.log(david.bio())
 // Hey, this is David. I live in Melbourne
 
+
+// we use less this kind of programming
