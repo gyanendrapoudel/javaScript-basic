@@ -20,6 +20,5 @@ const p1 = new Person({name:'gyanendra', add:'Sydney', dob:"1992-12-11"})
 // console.log(p1.getAge()) //32
 
 console.log(p1.dob) //undefined
-
 // console.log(p1.getAge()) //Error: p1.getAge is not a function
 console.log(p1.bio()) // This is gyanendra from Sydney and I am 32 years old. 
